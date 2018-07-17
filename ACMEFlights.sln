@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMEFlights.API", "ACMEFlights.API\ACMEFlights.API.csproj", "{8C390DD1-50B6-4285-A120-199DFB04B4C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMEFlights.Core", "ACMEFlights.Core\ACMEFlights.Core.csproj", "{BA25CA04-8B47-40D3-A790-2868CE830556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMEFlights.Data", "ACMEFlights.Data\ACMEFlights.Data.csproj", "{6D637F6B-1BC7-4862-B907-63B914992CF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8C390DD1-50B6-4285-A120-199DFB04B4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C390DD1-50B6-4285-A120-199DFB04B4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C390DD1-50B6-4285-A120-199DFB04B4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA25CA04-8B47-40D3-A790-2868CE830556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA25CA04-8B47-40D3-A790-2868CE830556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA25CA04-8B47-40D3-A790-2868CE830556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA25CA04-8B47-40D3-A790-2868CE830556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D637F6B-1BC7-4862-B907-63B914992CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D637F6B-1BC7-4862-B907-63B914992CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D637F6B-1BC7-4862-B907-63B914992CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D637F6B-1BC7-4862-B907-63B914992CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
